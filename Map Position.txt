@@ -1,7 +1,0 @@
-Link to the map position:
-
-https://mapzen.com/data/metro-extracts/
-
-This is the Waterloo Region in Ontario, Canada.
-
-I chose this area because it is the closest to the city in which I reside.
